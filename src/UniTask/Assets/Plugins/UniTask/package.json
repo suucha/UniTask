@@ -8,5 +8,6 @@
     "keywords": [ "async/await", "async", "Task", "UniTask" ],
     "license": "MIT",
     "category": "Task",
+    "type":"library",
     "dependencies": {}
 }
